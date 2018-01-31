@@ -8,7 +8,7 @@ theme : beige
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : hybrid
-logo : https://2h2xo36f2q928muqv2k8x4vw-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/logo_over_black.svg
+logo : assets/image/logo_over_black.svg
 transition : none
 published : true
-footnote : "GitPitch [ Aqua ] Presentation Template"
+footnote : "Panel Team"
