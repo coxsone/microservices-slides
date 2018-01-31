@@ -66,6 +66,11 @@
 * Component internal evolution minimise impacts compared to a functionnality or module evolution within a Monolith
 * Different Microservices deployed on different machines compared to a Monolith cluster.
   * If Microservice A is more loaded than B, A can be scaled horizontally but not B
+
+---
+
+## Advantages
+
 * Feature teams organization (Catalog, order management, ...) compared to teams organized by technologies (DBA, .Net Devs, ...)
 * No unique database mess which leads to hard model refactoring, deadlocks between different functionalities.
 * Platform / Technologies best suited for a specific Microservice
@@ -74,14 +79,14 @@
 
 # Monolith vs MicroService
 
-## Monolith
+_Monolith_
 * Simplicity
 * Consistence
 * Inter-module refactoring
 
-## Microservice
+_Microservice_
 * Partial deployment
-* Avaibility (If A Microservice fails, users still can use a funcionality managed by B, with a design for failure)
+* Avaibility
 * Preserve modularity
 * Platform / Technology best suited
 
