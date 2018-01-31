@@ -12,13 +12,14 @@
 ---
 
 ## Know your buzzword
-### Guru
+### Guru: Martin Fowler
 
-- Martin Fowler
-  - [A definition](https://martinfowler.com/articles/microservices.html)
-  - [A guide](https://martinfowler.com/microservices/)
-  - [A talk](https://www.youtube.com/watch?v=wgdBVIX9ifA)
-
+- [A definition](https://martinfowler.com/articles/microservices.html)
+- [A guide](https://martinfowler.com/microservices/)
+- [A talk](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+- [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
+- [Blue-Green](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+- Etc
 ---
 
 ## Know your buzzword
