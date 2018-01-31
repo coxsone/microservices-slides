@@ -63,6 +63,12 @@
 
 ---
 
+## Party Poopers
+
+[Microservice Envy (Buzzword, 2015)](https://www.thoughtworks.com/radar/techniques/microservice-envy)
+> We are concerned that some teams are rushing in to adopting microservices without understanding the changes to development, test, and operations that are required to do them well. Our general advice remains simple. Avoid microservice envy and start with one or two services before rushing headlong into developing more, to allow your teams time to adjust and understand the right level of granularity.
+---
+
 ## Some Balance
 
 [Martin Fowler - Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
