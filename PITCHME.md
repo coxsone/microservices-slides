@@ -87,17 +87,6 @@
 | Inter-module refactoring | Preserve modularity |
 |  | Platform / Technology best suited |
 
-_Monolith_
-* Simplicity
-* Consistence
-* Inter-module refactoring
-
-_Microservice_
-* Partial deployment
-* Avaibility
-* Preserve modularity
-* Platform / Technology best suited
-
 ---
 
 ## Prerequisites
