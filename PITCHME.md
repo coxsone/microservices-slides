@@ -20,12 +20,78 @@
 - [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
 - [Blue-Green](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 - Etc
+
+---
+
+## Know your buzzword
+### Guru: Martin Fowler
+
+- Componentization via Services
+- Organized around Business Capabilities
+- Products not Projects
+- Smart endpoints and dumb pipes
+- Decentralized Governance
+- Decentralized Data Management
+- Infrastructure Automation
+- Design for failure
+- Evolutionary Design
+
+---
+
+## Know your buzzword
+### Guru: Martin Fowler
+
+- How big is a microservice? |
+- Are Microservices just SOA? |
+
 ---
 
 ## Know your buzzword
 ### Book
 
 ![Building Microservices](https://martinfowler.com/articles/microservices/images/sam-book.jpg)
+
+---
+
+## MicroService vs SOA
+
+- SOA, different definitions for different people. For some of them, this means ESB. But ESB are not compatible with third Microservices common caracteristic.
+- MicroServices ⊂ SOA. Microservices architecture is a subset of SOA.
+
+---
+
+## Advantages
+
+* Different technologies per components
+* Component internal evolution minimise impacts compared to a functionnality or module evolution within a Monolith
+* Different Microservices deployed on different machines compared to a Monolith cluster.
+  * If Microservice A is more loaded than B, A can be scaled horizontally but not B
+* Feature teams organization (Catalog, order management, ...) compared to teams organized by technologies (DBA, .Net Devs, ...)
+* No unique database mess which leads to hard model refactoring, deadlocks between different functionalities.
+* Platform / Technologies best suited for a specific Microservice
+
+---
+
+# Monolith vs MicroService
+
+## Monolith
+* Simplicity
+* Consistence
+* Inter-module refactoring
+
+## Microservice
+* Partial deployment
+* Avaibility (If A Microservice fails, users still can use a funcionality managed by B, with a design for failure)
+* Preserve modularity
+* Platform / Technology best suited
+
+---
+
+## Prerequisites
+* Rapid provisioning (rapid environment set-up)
+* Basic monitoring
+* Rapid applications deployment
+* Devops culture
 
 ---
 
@@ -86,6 +152,10 @@
 ---
 
 ### Questions?
+
+---
+
+### M&T: share your goals!!
 
 ---
 
