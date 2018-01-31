@@ -29,6 +29,33 @@
 
 ---
 
+## Party Poopers
+
+[The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+> Netflix are great at devops. Netfix do microservices. Therefore: If I do microservices, I am great at devops.
+
+---
+
+## Party Poopers
+
+- Increased complexity for developers |
+- Increased complexity for operators |
+- Increased complexity for devops |
+- It requires serious expertise |
+- Real world systems often have poorly defined boundaries |
+
+---
+
+## Party Poopers
+
+- The complexities of state are often ignored |
+- The complexitities of communication are often ignored |
+- Versioning can be hard |
+- Distributed Transactions |
+- Microservices can be monoliths in disguise |
+
+---
+
 ### Questions?
 
 ---
