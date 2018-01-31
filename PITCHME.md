@@ -61,6 +61,21 @@
 [Questions](http://www.dwmkerr.com/content/images/2018/01/questions.png)
 ![Questions](http://www.dwmkerr.com/content/images/2018/01/questions.png)
 
+---
+
+## Some Balance
+
+[Martin Fowler - Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
+![Monolith First](https://martinfowler.com/bliki/images/microservice-verdict/path.png)
+
+---
+
+## Some Balance
+
+[About When Not to Do Microservices](http://blog.christianposta.com/microservices/when-not-to-do-microservices/)
+- If you’re the Pioneers, stick with monoliths |
+- If you’re the Settlers, you may need microservices |
+- If your’e the Town Planners, you may need microservices |
 
 ---
 
