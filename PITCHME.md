@@ -6,7 +6,7 @@
 
 ## Two worlds out there
 
-- Mesiahs |
+- Gurus |
 - Party poopers |
 
 ---
@@ -41,21 +41,20 @@
 ---
 
 ## Know your buzzword
-### Guru: Martin Fowler
-
-- How big is a microservice? |
-- Are Microservices just SOA? |
-
----
-
-## Know your buzzword
-### Book
+### The Book
 
 ![Building Microservices](https://martinfowler.com/articles/microservices/images/sam-book.jpg)
 
 ---
 
-## MicroService vs SOA
+## Underlying Concerns
+
+- Are Microservices just SOA? |
+- How big is a microservice? |
+
+---
+
+## MicroServices vs SOA
 
 - SOA, different definitions for different people. For some of them, this means ESB. But ESB are not compatible with third Microservices common caracteristic.
 - MicroServices ⊂ SOA. Microservices architecture is a subset of SOA.
@@ -80,6 +79,12 @@
 ---
 
 ### Monolith vs MicroService
+
+| _Monolith_   |     _Microservice_      |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 _Monolith_
 * Simplicity
