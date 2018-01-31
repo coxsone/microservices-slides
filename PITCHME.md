@@ -17,8 +17,10 @@
 - [A definition (2014)](https://martinfowler.com/articles/microservices.html)
 - [A guide](https://martinfowler.com/microservices/)
 - [A talk](https://www.youtube.com/watch?v=wgdBVIX9ifA)
-- [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
-- [Blue-Green](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+- Some noise
+  - [Bounded Contexts (DDD)](https://martinfowler.com/bliki/BoundedContext.html)
+  - [Blue-Green Deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+  - [Phoneix Servers](https://martinfowler.com/bliki/PhoenixServer.html)
 - Etc
 
 ---
@@ -102,6 +104,13 @@ _Microservice_
 
 ## Party Poopers
 
+[Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
+> Most of the projects don’t need a Microservices Architecture, what they need is a good architecture
+
+---
+
+## Party Poopers
+
 [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 > Netflix are great at devops. Netfix do microservices. Therefore: If I do microservices, I am great at devops.
 
@@ -138,6 +147,7 @@ _Microservice_
 
 [Microservice Envy (2015)](https://www.thoughtworks.com/radar/techniques/microservice-envy)
 > Some teams are rushing in to adopting microservices without understanding the changes to development, test, and operations. Our general advice remains simple. Avoid microservice envy and start with one or two services before rushing headlong into developing more, to allow your teams time to adjust and understand the right level of granularity.
+
 ---
 
 ## Some Balance
@@ -153,6 +163,12 @@ _Microservice_
 - If you’re the Pioneers, stick with monoliths |
 - If you’re the Settlers, you may need microservices |
 - If your’e the Town Planners, you may need microservices |
+
+---
+
+## Some Balance
+
+[How to decompose a monolith](https://herbertograca.com/2017/01/26/microservices-architecture/#how-to-decompose-a-monolith)
 
 ---
 
