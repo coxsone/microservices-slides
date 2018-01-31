@@ -56,6 +56,14 @@
 
 ---
 
+## Party Poopers
+
+[Questions](http://www.dwmkerr.com/content/images/2018/01/questions.png)
+![Questions](http://www.dwmkerr.com/content/images/2018/01/questions.png)
+
+
+---
+
 ### Questions?
 
 ---
