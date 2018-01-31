@@ -21,7 +21,7 @@
   - [Bounded Contexts (DDD)](https://martinfowler.com/bliki/BoundedContext.html)
   - [Blue-Green Deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html)
   - [Phoneix Servers](https://martinfowler.com/bliki/PhoenixServer.html)
-- Etc
+  - Etc
 
 ---
 
