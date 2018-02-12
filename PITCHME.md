@@ -99,6 +99,13 @@
 
 ## Party Poopers
 
+[Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
+> The key thing to note is that legacy systems are only legacy because they’ve been successful enough to last this long.
+
+---
+
+## Party Poopers
+
 [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 > Most of the projects don’t need a Microservices Architecture, what they need is a good architecture
 
